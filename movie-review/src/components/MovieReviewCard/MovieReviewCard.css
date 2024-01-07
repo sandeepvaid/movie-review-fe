@@ -1,0 +1,8 @@
+.review-card{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 1rem;
+}
